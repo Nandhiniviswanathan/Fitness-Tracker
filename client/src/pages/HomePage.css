@@ -1,0 +1,16 @@
+.background {
+    background: linear-gradient(to right, #e3f2fd, #bbdefb);
+    min-height: 100vh;
+    padding: 2rem;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    text-align: left;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
